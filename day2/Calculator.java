@@ -2,6 +2,8 @@ package week1.day2;
 
 public class Calculator {
 
+	Calculator c = new Calculator();
+
 	private int addTwoNumbers(int add1,int add2)
 		{
 		return	add1+add2;
