@@ -18,5 +18,4 @@ public class CheckPositiveOrNegative {
 		System.out.println("The number is neither Positive nor Negative.");
 	}
 	}
-
 }
